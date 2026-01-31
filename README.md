@@ -4,8 +4,7 @@
 3. Write a program to enter marks of 4 subjects and display result (result shall include total, percentage and grade)
 4. Write a program to enter 10 numbers and display all armstrong numbers from those numbers.
 5. Write a program to enter 10 numbers and display largest odd number from the entered number.
-6. Define a procedure histogram() that takes a list of integers and prints a histogram to the screen. For example, histogram([4, 9, 7]) should print the following:
-           ****
+6. Define a procedure histogram() that takes a list of integers and prints a histogram to the screen. For example, histogram([4, 9, 7]) should print the following:****
            *********
            *******
 7. Write a program to create a list and perform various operations on list using menu.
