@@ -1,0 +1,8 @@
+def count_vowels(text):
+    vowels = "aeiou"
+    count = 0
+    for char in text.lower(): # Convert to lowercase for case-insensitivity
+        if char in vowels:
+            count += 1
+    return count
+
