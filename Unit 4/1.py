@@ -1,14 +1,12 @@
 import pandas as pd
-
-# Update this path to include your specific file name
+#loads file path
 file_path = r"D:\4053\Python\Unit 4"
 
-#For load file path
+#load file
 df = pd.read_excel("Student Data.xlsx")
 
 print("Columns in the file:")
 print(df.columns.tolist())
 
-# Display data types
 print("\nData types of each column:")
 print(df.dtypes)
