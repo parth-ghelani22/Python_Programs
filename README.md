@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/Python_Programs/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parth-ghelani22/Python_Programs/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parth-ghelani22/Python_Programs/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parth-ghelani22/Python_Programs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
