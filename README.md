@@ -20,3 +20,15 @@
 11.Write a program to create function which shall accept any number of arguments and display total of all the numbers given as argument.
 12.Write a program to display the use of local, global and nonlocal variables
 13.Write a program to make use of map(), filter() and reduce() functions with context to lambda functions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/parth-ghelani22/Python_Programs/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/parth-ghelani22/Python_Programs/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
