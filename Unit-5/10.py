@@ -7,7 +7,6 @@
 - Exit """
 
 import mysql.connector
-
 def connect_db():
     return mysql.connector.connect(
         host="localhost",
@@ -15,7 +14,6 @@ def connect_db():
         password="",
         database="studentdb"
     )
-
 while True:
     print("\n----- STUDENT MENU -----")
     print("1. Insert Student")
