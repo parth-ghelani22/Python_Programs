@@ -10,7 +10,6 @@ con = mysql.connector.connect(
 )
 
 cur = con.cursor()
-
 rollno = int(input("Enter roll number of student to update: "))
 
 name = input("Enter new name: ")
@@ -27,7 +26,6 @@ WHERE rollno=%s
 """
 
 values = (name, gender, age, email, mobile, city, rollno)
-
 cur.execute(query, values)
 con.commit()
 
